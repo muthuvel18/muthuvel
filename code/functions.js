@@ -1,8 +1,9 @@
 
 const name=()=>{
     console.log('ko')
-}
+} 
 
-const name2=()=>{
+const footer=()=>{
     console.log('ko')
-}
+} 
+
